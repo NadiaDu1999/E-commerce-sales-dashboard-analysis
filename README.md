@@ -12,11 +12,15 @@ Interactive dashboard was built by using Power BI ans DAX query to analyse sales
 
 SCROLL DOWN to see some interesting insights!!
 
+
 ⭐️1. Overview ![Overview](https://github.com/NadiaDu1999/E-commerce-sales-dashboard-analysis/blob/main/overview.png)
 
 • Sales Trends: Overall sales in 2025 are higher than 2024, except for a dip in September–October.
 
 • Top Markets & Channels: The US is the largest contributor to sales. The website drives over 45% of total sales.
+
+• The highest net revenue of the company come from "Annual Adobe Creative Cloud All Apps" in Australia.
+
 
 ⭐️2. Customer Analytics ![Customer Analytics](https://github.com/NadiaDu1999/E-commerce-sales-dashboard-analysis/blob/main/customer.png)
 
@@ -25,6 +29,7 @@ SCROLL DOWN to see some interesting insights!!
 • The main target of the business is individual consumer (followed by SOHO and SMB) at aged 25–34 which generate the most sales. However, sales drop after age 45.
 
 • Organic search drives the most loyal customers, followed by Paid Search, Social, Email, and Affiliate.
+
 
 ⭐️3. Discount and Refund Summary ![Discount and Refund Summary](https://github.com/NadiaDu1999/E-commerce-sales-dashboard-analysis/blob/main/Discount_refund.png)
 
